@@ -1,8 +1,4 @@
 # Archivo README 
-Estos son cambios que estoy realizando en la temrinal
+He vuelto a realizar cambios esta vez en el repos
 
-Online no se deben hacer pero
-
-son pruebas 
-
-nada mas
+local
